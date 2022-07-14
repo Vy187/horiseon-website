@@ -7,7 +7,7 @@ Horiseon is a marketing company that needed help improving their existing codes,
 * [Preview](#Preview)
 * [Link](#Link)
 * [License](#License)
-* [Contributin](#Contributing)
+* [Contributing](#Contributing)
 * [Questions](#Questions)
 
 ## Preview
