@@ -15,7 +15,7 @@ Horiseon is a marketing company that needed help improving their existing codes,
 ![Render](./assets/images/Preview-2.png)
 
 ## Link
-[Horiseon Link](https://vy187.github.io/horiseon-website/)
+[Horiseon](https://vy187.github.io/horiseon-website/)
 
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
